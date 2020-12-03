@@ -1,0 +1,8 @@
+name: MultiRelease
+version: ${project.version}
+main: com.example.multirelease.MultiRelease
+api-version: 1.13
+load: STARTUP
+authors: [ Jannyboy11 ]
+description: A plugin that demonstrated that Bukkit's JavaPluginLoader ignores newer classes in Multi-Release JAR plugins.
+website: https://github.com/Jannyboy11/Multi-Release-Plugin
