@@ -6,7 +6,7 @@ public final class MultiRelease extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getLogger().info(Release.RELEASE);
+        getLogger().info(Release.get());
     }
 
 }
